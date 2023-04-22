@@ -1,0 +1,33 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  background-color: #2d033b;
+  color: #e5b8f4;
+}
+
+#opponent-choice {
+  width: 240px;
+  height: 240px;
+  margin-top: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.174);
+}
+
+#your-choice {
+  width: 240px;
+  height: 240px;
+  margin-top: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.174);
+}
+
+#choices {
+  width: 240px;
+  height: 80px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+#choices img {
+  width: 80px;
+  height: 80px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.174);
+}
